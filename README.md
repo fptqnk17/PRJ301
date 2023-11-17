@@ -2,14 +2,40 @@
 All source code about PRJ301 that we learned at FPT University QN AI Campus.
 > Require: [PRO192](https://github.com/fptqnk17/PRO192) and [DBI202](https://github.com/fptqnk17/DBI202)
 
-## Requirements
-- JDK 8
-- NetBeans 12.6 or above. [Click here to download!!!](https://netbeans.apache.org/download/nb126/nb126.html)
-- Tomcat 8
-- Maven 3+
+## Projects
 
-## Contributors:
-
-<a href="https://github.com/fptqnk17/PRJ301/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fptqnk17/PRJ301" />
-</a>
+<table>
+  <tr>
+    <td>#</td>
+    <td>Name</td>
+    <td>Repository</td>
+    <td>Description</td>
+    <td>Contributors</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>R7 Shop</td>
+    <td>
+      💻 <a href="https://github.com/hardingadonis/r7-shop">GitHub</a>
+    </td>
+    <td>R7 Shop is a website that sells MSI laptops that are written in Java.</td>
+    <td>
+      <a href="https://github.com/hardingadonis/r7-shop/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=hardingadonis/r7-shop"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Miu Shop</td>
+    <td>
+      💄 <a href="https://github.com/hardingadonis/miu-shop">GitHub</a>
+    </td>
+    <td>Miu Shop is a website that sells M.O.I cosmetics that are written in Java.</td>
+    <td>
+      <a href="https://github.com/hardingadonis/miu-shop/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=hardingadonis/miu-shop"/>
+      </a>
+    </td>
+  </tr>
+</table>
