@@ -9,7 +9,6 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
     <td>#</td>
     <td>Name</td>
     <td>Repository</td>
-    <td>Description</td>
     <td>Contributors</td>
   </tr>
   <tr>
@@ -18,7 +17,6 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
     <td>
       💻 <a href="https://github.com/hardingadonis/r7-shop">GitHub</a>
     </td>
-    <td>R7 Shop is a website that sells MSI laptops that are written in Java.</td>
     <td>
       <a href="https://github.com/hardingadonis/r7-shop/graphs/contributors">
         <img src="https://contrib.rocks/image?repo=hardingadonis/r7-shop"/>
@@ -31,7 +29,6 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
     <td>
       💄 <a href="https://github.com/hardingadonis/miu-shop">GitHub</a>
     </td>
-    <td>Miu Shop is a website that sells M.O.I cosmetics that are written in Java.</td>
     <td>
       <a href="https://github.com/hardingadonis/miu-shop/graphs/contributors">
         <img src="https://contrib.rocks/image?repo=hardingadonis/miu-shop"/>
