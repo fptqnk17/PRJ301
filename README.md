@@ -42,7 +42,7 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
       🌸 <a href="https://github.com/bakaqc/flower">GitHub</a>
     </td>
     <td>
-      <a href="https://github.com/bakaqc/flower">
+      <a href="https://github.com/bakaqc/flower/graphs/contributors">
         <img src="https://contrib.rocks/image?repo=bakaqc/flower"/>
       </a>
     </td>
@@ -54,7 +54,7 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
       🍖 <a href="https://github.com/siddle1512/Thienduongamthuc">GitHub</a>
     </td>
     <td>
-      <a href="https://github.com/siddle1512/Thienduongamthuc">
+      <a href="https://github.com/siddle1512/Thienduongamthuc/graphs/contributors">
         <img src="https://contrib.rocks/image?repo=siddle1512/Thienduongamthuc"/>
       </a>
     </td>
