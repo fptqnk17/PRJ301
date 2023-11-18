@@ -35,4 +35,28 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
       </a>
     </td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Flower Shop</td>
+    <td>
+      🌸 <a href="https://github.com/bakaqc/PRJ301_Team2">GitHub</a>
+    </td>
+    <td>
+      <a href="https://github.com/bakaqc/PRJ301_Team2">
+        <img src="https://contrib.rocks/image?repo=bakaqc/PRJ301_Team2"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Thiên Đường Ẩm Thực</td>
+    <td>
+      🍖 <a href="https://github.com/siddle1512/Thienduongamthuc">GitHub</a>
+    </td>
+    <td>
+      <a href="https://github.com/siddle1512/Thienduongamthuc">
+        <img src="https://contrib.rocks/image?repo=siddle1512/Thienduongamthuc"/>
+      </a>
+    </td>
+  </tr>
 </table>
