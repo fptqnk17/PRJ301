@@ -39,11 +39,11 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
     <td>3</td>
     <td>Flower Shop</td>
     <td>
-      🌸 <a href="https://github.com/bakaqc/PRJ301_Team2">GitHub</a>
+      🌸 <a href="https://github.com/bakaqc/flower">GitHub</a>
     </td>
     <td>
-      <a href="https://github.com/bakaqc/PRJ301_Team2">
-        <img src="https://contrib.rocks/image?repo=bakaqc/PRJ301_Team2"/>
+      <a href="https://github.com/bakaqc/flower">
+        <img src="https://contrib.rocks/image?repo=bakaqc/flower"/>
       </a>
     </td>
   </tr>
