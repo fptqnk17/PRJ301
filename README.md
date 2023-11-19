@@ -59,4 +59,16 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
       </a>
     </td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>xHobbe Ecommerce Website</td>
+    <td>
+      📱 <a href="https://github.com/tranduckhuy/xhobbe-ecommerce-web-app">GitHub</a>
+    </td>
+    <td>
+      <a href="https://github.com/tranduckhuy/xhobbe-ecommerce-web-app/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=tranduckhuy/xhobbe-ecommerce-web-app"/>
+      </a>
+    </td>
+  </tr>
 </table>
