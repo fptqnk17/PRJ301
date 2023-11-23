@@ -54,8 +54,8 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
       🍖 <a href="https://github.com/siddle1512/Thienduongamthuc">GitHub</a>
     </td>
     <td>
-      <a href="https://github.com/siddle1512/Thienduongamthuc/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=siddle1512/Thienduongamthuc"/>
+      <a href="https://github.com/siddle1512/thien_duong_am_thuc/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=siddle1512/thien_duong_am_thuc"/>
       </a>
     </td>
   </tr>
