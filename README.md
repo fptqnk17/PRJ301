@@ -51,7 +51,7 @@ All source code about PRJ301 that we learned at FPT University QN AI Campus.
     <td>4</td>
     <td>Thiên Đường Ẩm Thực</td>
     <td>
-      🍖 <a href="https://github.com/siddle1512/Thienduongamthuc">GitHub</a>
+      🍖 <a href="https://github.com/siddle1512/thien_duong_am_thuc">GitHub</a>
     </td>
     <td>
       <a href="https://github.com/siddle1512/thien_duong_am_thuc/graphs/contributors">
